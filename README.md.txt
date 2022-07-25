@@ -1,0 +1,1 @@
+#Abra o arquivo untitled.pro com o QT5 e aperte e run.
